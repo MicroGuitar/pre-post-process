@@ -1,0 +1,12 @@
+/darknet/DOTA/images/P0060__1__0___0.png
+/darknet/DOTA/images/P0060__1__0___1229.png
+/darknet/DOTA/images/P0060__1__0___924.png
+/darknet/DOTA/images/P0060__1__1848___0.png
+/darknet/DOTA/images/P0060__1__1848___1229.png
+/darknet/DOTA/images/P0060__1__1848___924.png
+/darknet/DOTA/images/P0060__1__2475___0.png
+/darknet/DOTA/images/P0060__1__2475___1229.png
+/darknet/DOTA/images/P0060__1__2475___924.png
+/darknet/DOTA/images/P0060__1__924___0.png
+/darknet/DOTA/images/P0060__1__924___1229.png
+/darknet/DOTA/images/P0060__1__924___924.png
